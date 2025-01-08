@@ -1,0 +1,6 @@
+Pillow
+python-pptx
+pytesseract
+PyYAML
+# If you need 'uv' specifically, uncomment or add it here:
+# uv

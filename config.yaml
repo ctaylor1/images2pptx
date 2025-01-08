@@ -1,0 +1,21 @@
+paths:
+  images_folder: "/Users/taylor/Documents/Processing/images2pptx/inputs"
+  output_folder: "/Users/taylor/Documents/Processing/images2pptx/outputs"
+  output_filename: "output_presentation.pptx"
+
+presentation:
+  slide_size_option: "widescreen"   # or "widescreen"
+  textbox_left_inches: 1         # Existing example
+  textbox_top_inches: 1          # Existing example
+  textbox_width_inches: 3        # Existing example
+  textbox_height_inches: 5       # Existing example
+  image_left_inches: 6         # Where you want the top-left corner of the image (in inches)
+  image_top_inches: 0.5
+  image_scale_percent: 50        # Scale (width and height), e.g. 75% = 75
+  text_font_size: 10             # Font size for text in the text box
+
+extensions:
+  - ".png"
+  - ".jpg"
+  - ".jpeg"
+  - ".gif"
