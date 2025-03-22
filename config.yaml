@@ -1,6 +1,6 @@
 paths:
-  images_folder: "/Users/taylor/Documents/Processing/images2pptx/inputs"
-  output_folder: "/Users/taylor/Documents/Processing/images2pptx/outputs"
+  images_folder: "/Users/taylor/Processing/images2pptx/inputs"
+  output_folder: "/Users/taylor/Processing/images2pptx/outputs"
   output_filename: "output_presentation.pptx"
 
 presentation:
